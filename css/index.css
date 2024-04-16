@@ -1,0 +1,19 @@
+
+
+
+body {
+    /* line-height: normal; */
+    /* width: 1500px; */
+    height: 300px;
+    /* width: 500px; */
+    margin: 10px;
+    padding: 10px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    align-content: space-evenly;
+}
+.button-alternar-modo {
+    border: solid 2px black;
+
+}
